@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anuji47?tab=repositories](https://github.com/Anuji47?tab=repositories)
 
-- 📫 How to reach me **anujiabey1234@gmail.com**
+- 📫 How to reach me **anujimanthini@gmail.com**
 
 - ⚡ Fun fact **Listening to songs...**
 

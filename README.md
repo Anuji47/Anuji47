@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuji Abhayarathna</h1>
 <h3 align="center">I am a second year undergraduate with genuine interest towards web development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuji47&label=Profile%20views&color=0e75b6&style=flat" alt="anuji47" /> </p>
 
 - 🔭 I’m currently working on [ProjectMOFI.](https://github.com/Team-KIDAC)
 
